@@ -1,0 +1,45 @@
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.deps.json
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.json
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.dev.json
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.csprojAssemblyReference.cache
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.csproj.CoreCompileInputs.cache
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cache
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cs
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfoInputs.cache
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfo.cs
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorTargetAssemblyInfo.cache
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\t.mendonca\source\repos\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.deps.json
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.json
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.dev.json
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.csproj.CoreCompileInputs.cache
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cache
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cs
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfoInputs.cache
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfo.cs
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorTargetAssemblyInfo.cache
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\t.mendonca\Desktop\APIS E WEB SERVICES (Online) - CD - O1 - T1\Atividades\Trabalho Final\CBF_API_Core\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.json
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.runtimeconfig.dev.json
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\bin\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorAssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.RazorTargetAssemblyInfo.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Projetos\Pos-Arquitetura\04-Arquitetura de APIs e WEB Services\Trabalho Final\Nova pasta\CBF_API_Core\obj\Debug\netcoreapp2.1\CBF_API_Core.genruntimeconfig.cache

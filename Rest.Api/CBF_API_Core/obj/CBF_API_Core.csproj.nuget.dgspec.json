@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\Projetos\\Pos-Arquitetura\\04-Arquitetura de APIs e WEB Services\\Trabalho Final\\Nova pasta\\CBF_API_Core\\CBF_API_Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\Projetos\\Pos-Arquitetura\\04-Arquitetura de APIs e WEB Services\\Trabalho Final\\Nova pasta\\CBF_API_Core\\CBF_API_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\Projetos\\Pos-Arquitetura\\04-Arquitetura de APIs e WEB Services\\Trabalho Final\\Nova pasta\\CBF_API_Core\\CBF_API_Core.csproj",
+        "projectName": "CBF_API_Core",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\Projetos\\Pos-Arquitetura\\04-Arquitetura de APIs e WEB Services\\Trabalho Final\\Nova pasta\\CBF_API_Core\\CBF_API_Core.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\Projetos\\Pos-Arquitetura\\04-Arquitetura de APIs e WEB Services\\Trabalho Final\\Nova pasta\\CBF_API_Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\OneDrive\\Área de Trabalho\\NuGet.Config",
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mope/MOPECONTROL/_packaging/MOPECONTROL_3_X/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mope/OPERADATA/_packaging/MOPE_DATA/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mope/_packaging/MOPE.CORE/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mope/_packaging/MOPE/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
